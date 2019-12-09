@@ -28,9 +28,13 @@ The above approach is implemented by exploring the dataset and creating sub-sets
 
 ### End Result
 The end result shows the following number of pricing anomalies according to each step of model:
+
 **Meaningless values:** 8820
+
 **Extreme Values:** 112
+
 **Outlier Score:** 123
+
 **Price Regression:** 708
 
 
