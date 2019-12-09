@@ -13,6 +13,11 @@ Detecting outliers or anomalies in pricing from the bookings data is an unsuperv
 #### 3. Cluster similar bookings based on pricipal components and detect statistical outliers
 
 
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
 The group proceeded with the above approach while forming 2 basic assumptions/hypothesis:
 
 #### 1. Clusters or features that have higher standard deviations, kurtosis or extreme values are more likely to contain anomalies
