@@ -37,4 +37,5 @@ The end result shows the following number of pricing anomalies according to each
 
 **Price Regression:** 708
 
+**TOTAL: 9763 (10.85% of the original dataset)
 
