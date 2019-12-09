@@ -25,3 +25,12 @@ The group proceeded with the above approach while forming 2 basic assumptions/hy
 
 
 The above approach is implemented by exploring the dataset and creating sub-sets of the data  that are likely to be anomalies at each level. In the end these subsets of data are combined to create the prediction .csv with the final tag = 1 for anomalies, 0 for genuine.
+
+### End Result
+The end result shows the following number of pricing anomalies according to each step of model:
+**Meaningless values:** 8820
+**Extreme Values:** 112
+**Outlier Score:** 123
+**Price Regression:** 708
+
+
